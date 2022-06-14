@@ -1,0 +1,24 @@
+{
+   
+   "correctUserInfo":
+   {
+    "firstName":"Kandan",
+    "lastName":"Tivin",
+    "Address1":"3685 A, Chowk",
+    "Address2":"Mori Gate",
+    "pinCode":"110006",
+    "mobileNumber":"32474849382",
+    "email":"kandan.tivin@gmail.com"
+   } 
+   ,
+   "WrongUserInfo":
+   {
+    "firstName":"1111",
+    "lastName":"22222",
+    "Address1":"e",
+    "Address2":"Mori Gate",
+    "pinCode":"34",
+    "mobileNumber":"32",
+    "email":"kandan"
+   } 
+}
