@@ -1,0 +1,23 @@
+{
+  "name": "aui_ui_task",
+  "version": "1.0.0",
+  "description": "this repo is for the Samsung page UI Automation for aui task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdullah-saadeddin/aui_UI_task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdullah-saadeddin/aui_UI_task/issues"
+  },
+  "homepage": "https://github.com/abdullah-saadeddin/aui_UI_task#readme",
+  "dependencies": {
+    "cypress": "^9.7.0"
+  }
+}
